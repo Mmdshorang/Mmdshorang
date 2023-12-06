@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mmdshorang
 - 👀 I’m interested in Full-Stack
-- 🌱 I’m currently learning Reack.js
+- 🌱 I’m currently learning React.js
 - 💞️ I am looking for cooperation to share experiences
 - 📫 How to reach me:LinkedIn id https://www.linkedin.com/in/mohammad-shorang-1a7698284/ 
 <!---
