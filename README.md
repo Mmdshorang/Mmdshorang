@@ -1,8 +1,8 @@
 ### Hi there, I'm Mohammad Shorang 👋
 
-[cite_start]I'm a **Full-Stack Web Developer** with over 4 years of experience in designing and developing scalable and user-friendly web applications[cite: 1].
+I'm a **Full-Stack Web Developer** with over 4 years of experience in designing and developing scalable and user-friendly web applications.
 
-My passion lies in solving complex problems and building high-performance applications. [cite_start]While my primary expertise is in the front-end with **React.js** and **Next.js** [cite: 1][cite_start], I also have professional experience developing robust back-end systems with **Laravel (PHP)** and **Node.js**[cite: 2].
+My passion lies in solving complex problems and building high-performance applications. [cite_start]While my primary expertise is in the front-end with **React.js** and **Next.js**, I also have professional experience developing robust back-end systems with **Laravel (PHP)** and **Node.js**.
 
 ---
 
