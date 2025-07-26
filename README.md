@@ -1,8 +1,8 @@
 ### Hi there, I'm Mohammad Shorang 👋
 
-I'm a **Full-Stack Web Developer** with over 4 years of experience in designing and developing scalable and user-friendly web applications.
+I'm a **Front-End Developer** with practical experience in building data-driven interfaces for complex systems. My passion lies in solving challenging problems and delivering clean, scalable code in real-world projects.
 
-My passion lies in solving complex problems and building high-performance applications. [cite_start]While my primary expertise is in the front-end with **React.js** and **Next.js**, I also have professional experience developing robust back-end systems with **Laravel (PHP)** and **Node.js**.
+While my primary expertise is in the front-end with **React.js** and **Next.js**, I also have professional experience developing robust back-end systems with **Laravel (PHP)** and **Node.js**.
 
 ---
 
@@ -38,10 +38,10 @@ A collection of tools and technologies I use in my projects:
 
 ### 🌱 What I Do
 
-* [cite_start]💻 I develop comprehensive front-end interfaces for complex systems like **accounting software** and **e-commerce platforms**[cite: 1, 6].
-* [cite_start]🚀 I build full-stack applications, from designing APIs with Laravel/Node.js to creating dynamic UIs with React[cite: 2, 4].
-* [cite_start]⚡ I focus on performance and optimization, using techniques like **SSR/SSG** with Next.js to enhance SEO and loading speed[cite: 6].
-* [cite_start]🤝 I enjoy working in **Agile teams** to solve challenging problems and deliver high-quality products[cite: 1].
+* 💻 I build responsive and high-performance UIs for complex systems like **accounting software** using **Material-UI**.
+* 🚀 I develop dynamic e-commerce platforms with **Next.js**, featuring **real-time updates** for inventory and orders.
+* ⚡ I create real-time applications, such as internal messaging systems, using **React.js** and **WebSocket**.
+* 🤝 I have experience working in **Agile/Scrum** teams and contributing to the full lifecycle of a project, from design to deployment.
 
 ---
 
@@ -50,6 +50,6 @@ A collection of tools and technologies I use in my projects:
 I'm always open to discussing new projects, sharing knowledge, and collaborating on interesting ideas.
 
 <p>
-  <a href="https://www.linkedin.com/in/mohammad-shorang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mmd.sk72000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="YOUR_LINKEDIN_PROFILE_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohammadshorang6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
